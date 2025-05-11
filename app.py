@@ -66,7 +66,7 @@ def predict(model, X_encoded):
 def main():
     # SIDEBAR
     with st.sidebar:
-        st.image("https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png")
+        st.image("https://ik.imagekit.io/1999/logo.svg")
         url = "https://github.com/dicodingacademy/dicoding_dataset/tree/main/students_performance"
         link_text = "Klik untuk mengunduh dataset"
         st.write('Submission Akhir: Menyelesaikan Permasalahan Institusi Pendidikan')
